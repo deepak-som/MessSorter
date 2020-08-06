@@ -1,0 +1,7 @@
+MessSorter makes your directort looks clean neat and soretd on the bases of file extensions.
+it moves files depending on their extension.
+
+steps:
+
+Select the directort you want to sort
+it will sort the selected directory automatically.
