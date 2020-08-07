@@ -1,7 +1,14 @@
 MessSorter makes your directort looks clean neat and soretd on the bases of file extensions.
 it moves files depending on their extension.
 
-steps:
 
+steps:
 Select the directort you want to sort
 it will sort the selected directory automatically.
+
+
+
+Info:
+If you have Python Installed on your machine you can run any of the file e.g executable(MessSorter.exe) or python(MessSorter.py)
+
+else you can run executable (MessSorter.exe) if you dont have python installed currently on your machine.
