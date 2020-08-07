@@ -3,7 +3,7 @@ it moves files depending on their extension.
 
 
 steps:
-Select the directort you want to sort
+Select the directory you want to sort
 it will sort the selected directory automatically.
 
 
